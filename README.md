@@ -1,4 +1,4 @@
-``markdown
+``
 # Typing speed test
 
 A Python typing training application that I created while studying the development of the Tkinter GUI.
